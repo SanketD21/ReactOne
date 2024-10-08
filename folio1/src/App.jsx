@@ -12,7 +12,7 @@ function App() {
       <GradientText
         colors={["#40ffaa", "#4079ff", "#40ffaa", "#4079ff", "#40ffaa"]} // Custom gradient colors
         animationSpeed={3} // Custom animation speed in seconds
-        showBorder={false} // Show or hide border
+        showBorder={true} // Show or hide border
         className="custom-class" // Add one or more custom classes
       >
         <h1>Sanket Dhumal</h1>
